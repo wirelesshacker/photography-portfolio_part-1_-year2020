@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .thumbnail {
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    display: inline-block;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .navigation {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .navigation a {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .navigation a:hover {
+    background-color: #fff;
+    color: #333;
+  }
+  
